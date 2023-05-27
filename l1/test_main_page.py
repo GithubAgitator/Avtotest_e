@@ -14,3 +14,6 @@ def test_guest_can_go_to_login_page(browser):
     time.sleep(10)
     go_to_login_page(browser)
 
+    #####
+
+
